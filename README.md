@@ -2,13 +2,13 @@
 **`#Estudante`**
 
 ### Sobre mim:
-Gosto de programar em **Python**, **JavaScript**, **HTML** e **CSS**.
-Cursando Técnico em Desenvolvimento de Sistemas na PROZ Educação.
+* Gosto de programar em **Python**, **JavaScript**, **HTML** e **CSS**.
+* Cursando Técnico em Desenvolvimento de Sistemas na PROZ Educação.
 
 
 ---
 
-### Tehno experiencia com:
+### Linguagens:
 <img height="30px" src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor">ㅤ
 <img height="30px" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=30&color=currentColor">ㅤ
 <img height="30px" src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor">ㅤ
@@ -16,7 +16,7 @@ Cursando Técnico em Desenvolvimento de Sistemas na PROZ Educação.
 <img height="30px" src="https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor">ㅤ
 
 
-### Minahs ferramentas:ㅤ
+### Ferramentas:ㅤ
 <img height="30px" src="https://devicon-website.vercel.app/api/vscode/original.svg">ㅤ
 
 
@@ -34,7 +34,7 @@ Cursando Técnico em Desenvolvimento de Sistemas na PROZ Educação.
 
 ---
 
-### Atualmente estou: 
+### Atualmente: 
 
 * Terminando um curso técnico de "Análise e Desenvolvimento de Sistemas" 
 * Estutando Python
