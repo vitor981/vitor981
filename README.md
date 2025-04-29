@@ -1,7 +1,4 @@
 # João Victor
-**`#Estudante`**
-
-### Sobre mim:
 * Gosto de programar em **Python**, **JavaScript**, **HTML** e **CSS**.
 * Cursando Técnico em Desenvolvimento de Sistemas na PROZ Educação.
 
@@ -35,8 +32,7 @@
 ---
 
 ### Atualmente: 
-
-* Terminando um curso técnico de "Análise e Desenvolvimento de Sistemas" 
+ 
 * Estutando Python
 * Procurando minha 1° vaga de estágio da área
 
