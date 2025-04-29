@@ -1,4 +1,4 @@
-<img align="center" alt="" scr=>
+<img align="center" alt="" scr=https://github.com/user-attachments/assets/2a5dc930-361e-4894-b5c9-86d500d54aa9>
 # João Victor
 * Gosto de programar em **Python**, **JavaScript**, **HTML** e **CSS**.
 * Cursando Técnico em Desenvolvimento de Sistemas na PROZ Educação.
