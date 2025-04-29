@@ -1,8 +1,9 @@
-# João Victor - Olá 🖖
+# João Victor
 **`#Estudante`**
 
 ### Sobre mim:
-Olá! Meu nome é **João Victor**, tenho **19** anos. Gosto principalmente de **Python**, mas também me dou bem com **JavaScript**, **HTML** e **CSS**. Atualmente estou fazendo um curso técnico e sempre buscando aprender coisas novas. 🚀
+Gosto de programar em **Python**, **JavaScript**, **HTML** e **CSS**.
+Cursando Técnico em Desenvolvimento de Sistemas na PROZ Educação.
 
 
 ---
