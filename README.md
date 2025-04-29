@@ -1,3 +1,4 @@
+<img align="center" alt="vitor981" scr=https://i.pinimg.com/736x/1d/9a/5b/1d9a5bc9875709d81d415677d150dd69.jpg>
 # João Victor
 * Gosto de programar em **Python**, **JavaScript**, **HTML** e **CSS**.
 * Cursando Técnico em Desenvolvimento de Sistemas na PROZ Educação.
