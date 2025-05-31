@@ -10,6 +10,7 @@
 <img height="30px" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=30&color=currentColor">ㅤ
 <img height="30px" src="https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor">ㅤ
 <img height="30px" src="https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor">ㅤ
+<img height="30px" src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor">ㅤ
 
 
 ### Ferramentas:ㅤ
